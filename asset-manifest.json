@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Assignment_6_Zipcode_Search_APP/static/css/main.e4bce9f1.chunk.css",
+    "main.js": "/Assignment_6_Zipcode_Search_APP/static/js/main.af0d23f0.chunk.js",
+    "main.js.map": "/Assignment_6_Zipcode_Search_APP/static/js/main.af0d23f0.chunk.js.map",
+    "runtime-main.js": "/Assignment_6_Zipcode_Search_APP/static/js/runtime-main.8b3d94bb.js",
+    "runtime-main.js.map": "/Assignment_6_Zipcode_Search_APP/static/js/runtime-main.8b3d94bb.js.map",
+    "static/js/2.51ae0351.chunk.js": "/Assignment_6_Zipcode_Search_APP/static/js/2.51ae0351.chunk.js",
+    "static/js/2.51ae0351.chunk.js.map": "/Assignment_6_Zipcode_Search_APP/static/js/2.51ae0351.chunk.js.map",
+    "static/js/3.a080a676.chunk.js": "/Assignment_6_Zipcode_Search_APP/static/js/3.a080a676.chunk.js",
+    "static/js/3.a080a676.chunk.js.map": "/Assignment_6_Zipcode_Search_APP/static/js/3.a080a676.chunk.js.map",
+    "index.html": "/Assignment_6_Zipcode_Search_APP/index.html",
+    "static/css/main.e4bce9f1.chunk.css.map": "/Assignment_6_Zipcode_Search_APP/static/css/main.e4bce9f1.chunk.css.map",
+    "static/js/2.51ae0351.chunk.js.LICENSE.txt": "/Assignment_6_Zipcode_Search_APP/static/js/2.51ae0351.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/Assignment_6_Zipcode_Search_APP/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8b3d94bb.js",
+    "static/js/2.51ae0351.chunk.js",
+    "static/css/main.e4bce9f1.chunk.css",
+    "static/js/main.af0d23f0.chunk.js"
+  ]
+}
